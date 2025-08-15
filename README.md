@@ -49,9 +49,9 @@ MediBookBD AI Health Hub হলো একটি AI-চালিত স্বা�
 | Feature / ফিচার | Price (₹) |
 |----------------|-----------|
 | Prescription (প্রেসক্রিপশন) | Free (ফ্রি) |
-| AI Assistance (AI সহায়তা) | 1000/month |
-| Insights Dashboard (ইনসাইটস) | 1000/month |
-| Research Projection (গবেষণা পূর্বাভাস) | 2000/month |
+| AI Assistance (AI সহায়তা) | ---/month | ( Upcoming )
+| Insights Dashboard (ইনসাইটস) | ---/month | ( Upcoming )
+| Research Projection (গবেষণা পূর্বাভাস) | ----/month | ( Upcoming )
 
 ---
 
