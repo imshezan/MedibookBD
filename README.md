@@ -79,8 +79,11 @@ MediBook AI Health Hub একটি সহায়ক টুল, এটি চ�
 
 ---
 
-## 📬 Contact (যোগাযোগ)
- 
-Email:  
-Phone: 
-website: medibookbd.com (test site, prescription only.)
+## 📬 Contact Information (যোগাযোগের তথ্য)
+
+For any inquiries or support, feel free to contact us:  
+
+[✉️ Email Us](mailto:medibookbd2025@gmail.com)  
+[📞 Call Us](tel:+8801557711220)  
+[📱 WhatsApp](https://wa.me/8801330459609)  
+[🌐 Test Visit Website](https://www.medibookbd.com)
